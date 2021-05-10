@@ -15,6 +15,9 @@ Also **`3D_Printer`** pins are used to power up the microcontroller as follows:
 The power failure will be triggered after **~82ms**  
 I put all the components on a perfboard and, because the result was small enough, I put it in the power supply case. Of course, I isolated the board using heat shrink tubing.
 
+## Compiled code
+[Here](binaries/3DPrinterSPD.production.hex) is the hex file which contain the compiled code
+
 
 ## The schematic
 ![Schematic](hardware/schematic.png)
